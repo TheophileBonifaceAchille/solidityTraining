@@ -1,5 +1,7 @@
 # Solidity traning
 
+Exercice 6 dans le README !
+
 Deploy here => https://remix.ethereum.org/
 
 # Exercices de soutien solidity
@@ -70,10 +72,14 @@ Votre ERC-20 devra avoir un nom, un symbole, `decimals` devra être de 18 et le 
 
 Pour justifier de la réussite de l'exercice vous devrez fournir:
 
-- L'adresse du contrat déployé
-- un lien vers etherscan qui contiendra les détails de la transaction de `mint`
-- un lien vers etherscan qui contiendra les détails de la transaction de `transfer`
-- un lien vers etherscan qui contiendra les détails de la transaction de `approve`
+- L'adresse du contrat déployé:
+  `0xd479B5C7602b9166A3aDB223446f52974Db899DA`
+- un lien vers etherscan qui contiendra les détails de la transaction de `mint`:
+  `https://rinkeby.etherscan.io/tx/0xe5a61539ce40b8d71be568ff81591914ab90b4aa1f18d94c2b1083489402d262`
+- un lien vers etherscan qui contiendra les détails de la transaction de `transfer`:
+  `https://rinkeby.etherscan.io/tx/0xf0e01354a163445327c72ffed9262b728c14ae4fab1bc46154de6a4143da3b3c`
+- un lien vers etherscan qui contiendra les détails de la transaction de `approve`:
+  `https://rinkeby.etherscan.io/tx/0x993ab6b0a979dd63d806471e3c783210f8def590bd4969488133ba6f5372db61`
 
 ## 7 _Adder.sol_
 
